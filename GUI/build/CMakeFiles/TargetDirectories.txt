@@ -1,0 +1,7 @@
+/home/peggy/Downloads/ElasticFusion-master_CL/GUI/build/CMakeFiles/install.dir
+/home/peggy/Downloads/ElasticFusion-master_CL/GUI/build/CMakeFiles/list_install_components.dir
+/home/peggy/Downloads/ElasticFusion-master_CL/GUI/build/CMakeFiles/rebuild_cache.dir
+/home/peggy/Downloads/ElasticFusion-master_CL/GUI/build/CMakeFiles/install/local.dir
+/home/peggy/Downloads/ElasticFusion-master_CL/GUI/build/CMakeFiles/install/strip.dir
+/home/peggy/Downloads/ElasticFusion-master_CL/GUI/build/CMakeFiles/ElasticFusion.dir
+/home/peggy/Downloads/ElasticFusion-master_CL/GUI/build/CMakeFiles/edit_cache.dir
