@@ -1,14 +1,22 @@
-# Project Title
+# Efusion_OpenCL
 
-One Paragraph of project description goes here
+This project is the OpenCL version of ElasticFusion.
 
-## Getting Started
+## How to build it
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+### In Ubuntu
 
-### Prerequisites
-
-What things you need to install the software and how to install them
+What things you need:
+* Ubuntu 16.04
+* CMake
+* OpenCL 1.2 (CUDA >= 8.0)
+* OpenGL
+* OpenNI2
+* Eigen
+* Pangolin
+* SuiteSparse
+* zlib
+* libjpeg
 
 ```
 Give examples
